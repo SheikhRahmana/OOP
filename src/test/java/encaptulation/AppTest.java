@@ -1,4 +1,4 @@
-package org.example;
+package encaptulation;
 
 import static org.junit.Assert.assertTrue;
 
